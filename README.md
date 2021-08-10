@@ -13,15 +13,10 @@
 
 - [TECHNOLOGIES](#technologies)
 
-- [DATA](#data)
-    - [Gathering](#gathering)
-
-    - [Preparation](#preparation)
-
-    - [Assumptions](#assumptions)
-
-- [PREDICTIVE MODEL](#predictive-model)
-	- [Training](#training)
+- [VIDEO DEMO](#video-demo)
+   
+- [FUNCTIONS](#functions-displayed-in-demo)
+	- [Minting](#image/minting.png)
 
     - [Evaluating & Tuning](#evaluating-&-tuning)
 
@@ -48,21 +43,22 @@ TicketBlock is a decentralized application that offers full-stack blockchain sol
 ![Ticket](image/z.png)
 
 ---
-### Video Demo
+## Video Demo
 [HERE](https://youtu.be/Ih6cbqdMljA)
 
 ---
 
 ### Functions displayed in the demo
 
-![Ticket](image/minting.png)
 
-![Ticket](image/buyingfromvendor.png)
+![Minting](image/minting.png)
 
-![Ticket](image/offertouser.png)
+![Buying](image/buyingfromvendor.png)
 
-![Ticket](image/colecting-refund.png)
+![Reselling](image/offertouser.png)
 
-![Ticket](image/accepting_offer.png)
+![Refund](image/colecting-refund.png)
 
-![Ticket](image/rejecting_offer.png)
+![Accepting](image/accepting_offer.png)
+
+![Rejecting](image/rejecting_offer.png)
