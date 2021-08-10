@@ -1,14 +1,13 @@
 ![Ticket](image/ETKN.png)
 
 # TicketBlock: On-Chain Event Sales 
+
+#### Team members:
+#### Sinan Colpan, Carolina Corona, Chimdike Ihe, Dave Dwarakan, Justin Gouin
 ---
 
-### Team members: 
 
-Sinan Colpan, Carolina Corona, Chimdike Ihe, Dave Dwarakan, Justin Gouin
-
----
-# Table of contents:
+# Contents:
 
 - [OBJECTIVE](#objective)
 
@@ -36,7 +35,15 @@ TicketBlock is a decentralized application that offers full-stack blockchain sol
 
 ### Technologies:
 
-Solidity, Go Ethereum, IPFS Companion, Pinata.Cloud, Web3
+Solidity on [Remix](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null)
+[OpenZeppelin](https://github.com/OpenZeppelin)
+Python on Jupyter notebook
+Go Ethereum 
+IPFS Companion 
+Web3
+[Infura](https://infura.io)
+Using [Rinkeby testnet](https://faucet.rinkeby.io)
+[Ganache](https://www.trufflesuite.com/ganache)
 
 ![Ticket](image/z.png)
 
