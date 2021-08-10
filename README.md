@@ -23,6 +23,8 @@
 	- [Collecting a refund](#Collecting-a-refund)
 	- [Accepting an offer from another user](#Accepting-an-offer-from-another-user)
 	- [Rejecting an offer](#Rejecting-an-offer)
+
+- [USEFUL RESOURCES](#useful-resources)
 	
 
 
@@ -69,3 +71,10 @@ TicketBlock is a decentralized application that offers full-stack blockchain sol
 
 ###  Rejecting an offer
 ![Rejecting](image/rejecting_offer.png)
+
+
+## Useful Resources
+
+
+
+Resources from class material - "© 2021 Trilogy Education Services, a 2U, Inc. brand."
