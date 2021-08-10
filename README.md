@@ -30,7 +30,7 @@
 
 ### Objective:
 
-TicketBlock is a decentralized application that offers full-stack blockchain solutions for ticket providers. Our customers are guided through the process of setting up private chains on which they are able to offer and monitor ticket sales and resales. 
+To create TicketBlock is a decentralized application that offers full-stack blockchain solutions for ticket providers. Our customers are guided through the process of setting up private chains on which they are able to offer their customers a secure way of buying or reselling tickets under a monitored and controled environment. 
 
 ### Technologies:
 
