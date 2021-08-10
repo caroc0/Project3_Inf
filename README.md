@@ -50,22 +50,22 @@ TicketBlock is a decentralized application that offers full-stack blockchain sol
 
 ---
 
-### Functions
+## Functions
 
-- Minting
+### - Minting
 ![Minting](image/minting.png)
 
-- Buying a ticket from the vendor
+### - Buying a ticket from the vendor
 ![Buying](image/buyingfromvendor.png)
 
-- Buying a ticket from another user
+### - Buying a ticket from another user
 ![Reselling](image/offertouser.png)
 
-- Collecting a refund
+### - Collecting a refund
 ![Refund](image/colecting-refund.png)
 
-- Accepting an offer from another user
+### - Accepting an offer from another user
 ![Accepting](image/accepting_offer.png)
 
-- Rejecting an offer
+### - Rejecting an offer
 ![Rejecting](image/rejecting_offer.png)
