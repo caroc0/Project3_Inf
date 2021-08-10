@@ -16,13 +16,15 @@
 - [VIDEO DEMO](#video-demo)
    
 - [FUNCTIONS](#functions)
-	- [Minting](#minting)
 
-    - [Evaluating & Tuning](#evaluating-&-tuning)
-
-	- [Prediciton](#prediction)	
+	- [MINTING](#minting)
+	- [Prediciton](#prediction)
+	- [Prediciton](#prediction)
+	- [Prediciton](#prediction)
+	- [Prediciton](#prediction)
+	- [Prediciton](#prediction)
 	
-- [CONCLUSION](#conclusion)
+
 
 ### Objective:
 
