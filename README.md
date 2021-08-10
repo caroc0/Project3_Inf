@@ -7,6 +7,29 @@
 
 Sinan Colpan, Carolina Corona, Chimdike Ihe, Dave Dwarakan, Justin Gouin
 
+---
+# Table of contents:
+
+- [OBJECTIVE](#objective)
+
+- [TECHNOLOGIES](#technologies)
+
+- [DATA](#data)
+    - [Gathering](#gathering)
+
+    - [Preparation](#preparation)
+
+    - [Assumptions](#assumptions)
+
+- [PREDICTIVE MODEL](#predictive-model)
+	- [Training](#training)
+
+    - [Evaluating & Tuning](#evaluating-&-tuning)
+
+	- [Prediciton](#prediction)	
+	
+- [CONCLUSION](#conclusion)
+
 ### Objective:
 
 TicketBlock is a decentralized application that offers full-stack blockchain solutions for ticket providers. Our customers are guided through the process of setting up private chains on which they are able to offer and monitor ticket sales and resales. 
