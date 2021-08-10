@@ -35,15 +35,15 @@ TicketBlock is a decentralized application that offers full-stack blockchain sol
 
 ### Technologies:
 
-Solidity on [Remix](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null)
-[OpenZeppelin](https://github.com/OpenZeppelin)
-Python on Jupyter notebook
-Go Ethereum 
-IPFS Companion 
-Web3
-[Infura](https://infura.io)
-Using [Rinkeby testnet](https://faucet.rinkeby.io)
-[Ganache](https://www.trufflesuite.com/ganache)
+- Solidity on [Remix](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null)
+- [OpenZeppelin](https://github.com/OpenZeppelin)
+- Python on Jupyter notebook
+- Go Ethereum 
+- IPFS Companion 
+- Web3
+- [Infura](https://infura.io)
+- Using [Rinkeby testnet](https://faucet.rinkeby.io)
+- [Ganache](https://www.trufflesuite.com/ganache)
 
 ![Ticket](image/z.png)
 
