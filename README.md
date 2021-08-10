@@ -15,8 +15,8 @@
 
 - [VIDEO DEMO](#video-demo)
    
-- [FUNCTIONS](#functions-displayed-in-demo)
-	- [Minting](#image/minting.png)
+- [FUNCTIONS](#functions)
+	- [Minting](#(image/minting.png))
 
     - [Evaluating & Tuning](#evaluating-&-tuning)
 
@@ -48,7 +48,7 @@ TicketBlock is a decentralized application that offers full-stack blockchain sol
 
 ---
 
-### Functions displayed in the demo
+### Functions
 
 
 ![Minting](image/minting.png)
