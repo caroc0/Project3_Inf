@@ -75,6 +75,9 @@ TicketBlock is a decentralized application that offers full-stack blockchain sol
 
 ## Useful Resources
 
-
+[Python installation guide](https://github.com/caroc0/Project3_inf/blob/main/Resources/Blockchain_TX_Install_Guide.md)
+[Guide to Building dApp GUIs and CLIs](https://github.com/caroc0/Project3_inf/blob/main/Resources/Guide_to_Building_dApp_GUI_and_CLI.md)
+[Go Ethereum guide](https://github.com/caroc0/Project3_inf/blob/main/Resources/go-ethereum-tools-install.md)
+[Installing MetaMask](https://github.com/caroc0/Project3_inf/blob/main/Resources/unit-20-install-guide.md)
 
 Resources from class material - "© 2021 Trilogy Education Services, a 2U, Inc. brand."
