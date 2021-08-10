@@ -17,12 +17,12 @@
    
 - [FUNCTIONS](#functions)
 
-	- [MINTING](#minting)
-	- [Prediciton](#prediction)
-	- [Prediciton](#prediction)
-	- [Prediciton](#prediction)
-	- [Prediciton](#prediction)
-	- [Prediciton](#prediction)
+	- [Minting](#minting)
+	- [Buying a ticket from the vendor](#Buying-a-ticket-from-the-vendor)
+	- [Buying a ticket from another user](#Buying-a-ticket-from-another-user)
+	- [Collecting a refund](#Collecting-a-refund)
+	- [Accepting an offer from another user](#Accepting-an-offer-from-another-user)
+	- [Rejecting an offer](#Rejecting-an-offer)
 	
 
 
