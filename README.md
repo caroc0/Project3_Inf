@@ -1,9 +1,6 @@
-![ticketing-rendszer](https://user-images.githubusercontent.com/77997949/128244005-96ac73ea-9432-4321-b626-2955c49511c5.jpg)
+![Ticket](image/ETKN.png)
+
 # TicketBlock: On-Chain Event Sales 
-
-
-
-
 ---
 
 ### Team members: 
@@ -18,11 +15,24 @@ TicketBlock is a decentralized application that offers full-stack blockchain sol
 
 Solidity, Go Ethereum, IPFS Companion, Pinata.Cloud, Web3
 
-![Ticket](image/ETKN.png)
+![Ticket](image/z.png)
+
+---
+### Video Demo
+[HERE](https://youtu.be/Ih6cbqdMljA)
 
 ---
 
+### Functions displayed in the demo
 
-### Video Demo
+![Ticket](image/minting.png)
 
-[HERE](https://youtu.be/Ih6cbqdMljA)
+![Ticket](image/buyingfromvendor.png)
+
+![Ticket](image/offertouser.png)
+
+![Ticket](image/colecting-refund.png)
+
+![Ticket](image/accepting_offer.png)
+
+![Ticket](image/rejecting_offer.png)
